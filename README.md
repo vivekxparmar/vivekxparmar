@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
-<h1 align="center">👋 Hello, I am <span style="color:#007acc;">Vivek Parmar</span> 🚀</h1>
+<h1 align="center">👋 Hello, I am <span style="color:#007acc;">Vivek Parmar</span></h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6F6FF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an enthusiastic developer passionate about building dynamic web applications and exploring the world of artificial intelligence. With a strong foundation in data structures and algorithms, I love solving real-world problems through clean, scalable code.
 
@@ -23,7 +23,7 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 ---
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 <p align="center">
   <!-- Programming Languages -->
@@ -51,7 +51,7 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Languages**:  
 `C` • `C++` • `Java` • `Python` • `JavaScript` • `PHP`
@@ -67,7 +67,7 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -79,7 +79,7 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="www.linkedin.com/in/vivek-parmar-047009261"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -89,7 +89,7 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 ---
 
-*Let’s build something amazing together! 💥*
+*Let’s build something amazing together!*
 <!---
 vivekxparmar/vivekxparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
