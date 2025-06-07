@@ -3,6 +3,7 @@
 
 ## About Me
 
+
 I'm an enthusiastic developer passionate about building dynamic web applications and exploring the world of artificial intelligence. With a strong foundation in data structures and algorithms, I love solving real-world problems through clean, scalable code.
 
 - 🔭 Currently working on: **Mental Wellness Tracker MERN App**
@@ -10,7 +11,7 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 - 💡 Interested in: Web Development, Machine Learning, UI/UX Design
 - ⚡ Hard Fact: **Whether it is mathematics or life, it is always hard to face "Log" and "x"**  
 
-### Languages & Technologies
+## Languages & Technologies
 
 <p align="center">
 
