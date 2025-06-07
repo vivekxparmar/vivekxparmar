@@ -10,8 +10,6 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 - 💡 Interested in: Web Development, Machine Learning, UI/UX Design
 - ⚡ Hard Fact: **Whether it is mathematics or life, it is always hard to face "Log" and "x"**  
 
----
-
 ### Languages & Technologies
 
 <p align="center">
