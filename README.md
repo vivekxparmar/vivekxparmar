@@ -71,20 +71,6 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 </p>
 
-## Skills
-
-**Languages**:  
-`C` • `C++` • `Java` • `Python` • `JavaScript` • `PHP`
-
-**Frontend**:  
-`React.js` • `Tailwind CSS` • `HTML` • `CSS` • `Framer Motion`
-
-**Backend**:  
-`Node.js` • `Express.js` • `MongoDB`
-
-**Tools & Platforms**:  
-`Git` • `GitHub` • `Postman` • `Render` • `Vercel`
-
 ## GitHub Stats
 
 <div align="center">
