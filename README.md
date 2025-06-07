@@ -71,8 +71,6 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 
 </p>
 
----
-
 ## Skills
 
 **Languages**:  
