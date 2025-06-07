@@ -1,16 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
 <h1 align="center">👋 Hello, I am <span style="color:#007acc;">Vivek Parmar</span></h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6F6FF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
-</div>
-
-🎓 IT Engineering Student | 💻 MERN Stack Developer | 🤖 AI/ML Enthusiast  
-
----
-
-![Linked In Banner](https://github.com/user-attachments/assets/e9ba29d1-ed89-4923-91c0-03123925b234)
-
----
 
 ## About Me
 
