@@ -85,8 +85,6 @@ I'm an enthusiastic developer passionate about building dynamic web applications
 **Tools & Platforms**:  
 `Git` • `GitHub` • `Postman` • `Render` • `Vercel`
 
----
-
 ## GitHub Stats
 
 <div align="center">
